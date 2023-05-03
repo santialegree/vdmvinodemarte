@@ -328,13 +328,15 @@
 
 .proximas-fechas {
   background: linear-gradient(to bottom, #333333, #222222);
-  padding: 2rem;
+  padding: 4rem;
   overflow: hidden;
 }
 
 .grid-container-proximas-fechas {
+
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
 }
 
